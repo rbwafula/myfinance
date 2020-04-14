@@ -1,0 +1,3 @@
+/* DROP & CREATE Database */
+DROP DATABASE IF EXISTS `myfinance`;
+CREATE DATABASE IF NOT EXISTS `myfinance`
